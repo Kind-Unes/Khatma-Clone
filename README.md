@@ -16,8 +16,8 @@ This Flutter application is a clone of the Khatmah app, implemented using the Fl
   
 ## Screenshots
 
-![Screenshot 1](link_to_screenshot_1.png)
-![Screenshot 2](link_to_screenshot_2.png)
+![Screenshot 1](https://raw.githubusercontent.com/Kind-Unes/Khatma-Clone/master/Screenshots/unnamed%20(1).webp)
+![Screenshot 2](https://raw.githubusercontent.com/Kind-Unes/Khatma-Clone/master/Screenshots/unnamed.webp)
 
 ## Getting Started
 
