@@ -24,7 +24,6 @@ This Flutter application is a clone of the Khatmah app, implemented using the Fl
 ### Prerequisites
 
 - Flutter installed
-- pub get
 
 ### Installation
 
